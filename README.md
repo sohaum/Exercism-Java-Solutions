@@ -1,7 +1,3 @@
-# This is a README.md template for your repository. 
-# You can copy the content between the EOF markers into your terminal.
-
-cat << 'EOF' > README.md
 # Exercism Java Solutions 🚀
 
 This repository contains my solutions to the [Exercism](https://exercism.org/tracks/java) Java track. It’s a dedicated space where I bridge the gap between basic syntax and professional-grade software engineering through consistent practice, **TDD (Test-Driven Development)**, and clean refactoring.
@@ -27,4 +23,3 @@ exercism submit src/main/java/ExerciseName.java
 
 ---
 *“First make it work, then make it right, then make it fast.”*
-EOF
