@@ -15,11 +15,7 @@ This repository contains my solutions to the [Exercism](https://exercism.org/tra
 - **AAA Pattern:** Structuring unit tests with clear **Arrange, Act, and Assert** phases for maximum readability.
 
 ## 🚀 How to Run
-If you have the Exercism CLI and Java installed:
-\`\`\`bash
-# Run tests for a specific exercise
 exercism submit src/main/java/ExerciseName.java
-\`\`\`
 
 ---
 *“First make it work, then make it right, then make it fast.”*
