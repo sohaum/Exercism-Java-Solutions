@@ -13,6 +13,7 @@ This repository contains my solutions to the [Exercism](https://exercism.org/tra
 - **Encapsulation:** Protecting internal state using `Collections.unmodifiableList` and defensive programming.
 - **Dependency Injection:** Implementing interfaces (like `ILogger`) to create decoupled, testable code.
 - **AAA Pattern:** Structuring unit tests with clear **Arrange, Act, and Assert** phases for maximum readability.
+- **Red-Green-Refactor**: Following the TDD cycle by writing failing tests first, implementing minimal code to pass, and then optimizing for quality.
 
 ## 🚀 How to Run
 exercism submit src/main/java/ExerciseName.java
